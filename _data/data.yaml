@@ -32,8 +32,8 @@ statuses:
 
 promises:
     -
-        title: 'Test test test'
-        status: Not started
+        title: 'No more trips to (xyz)'
+        status: Broken
         category: First 100 Days
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
